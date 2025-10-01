@@ -18,7 +18,7 @@
 
 ###
 
-<ul  align="center">
+<ul  align="left">
 <li>🌱 Systems Development junior, 3rd year of High School completed.</li>
 <li>💜 Interest: Javascript, CSS, HTML, SQLServe, C#.</li>
 <li>📖 Colégio Objetivo - Liceu José de Alencar: High School.</li>
@@ -27,11 +27,11 @@
 
 ###
 
-<h2 align="center">🚀Principal skills:</h2> 
+<h2 align="left">🚀Principal skills:</h2> 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
@@ -49,7 +49,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/guilhermee-barbosaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
   </a>
