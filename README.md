@@ -18,7 +18,7 @@
 
 ###
 
-<ul  align="left">
+<ul  align="center">
 <li>🌱 Systems Development junior, 3rd year of High School completed.</li>
 <li>💜 Interest: Javascript, CSS, HTML, SQLServe, C#.</li>
 <li>📖 Colégio Objetivo - Liceu José de Alencar: High School.</li>
@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">🚀Principal skills:</h2> 
+<h2 align="center">🚀Principal skills:</h2> 
 
 ###
 
