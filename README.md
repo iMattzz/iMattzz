@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">🚀Principal skills:</h2> 
+<h2 align="center">🚀 Principal skills: 🚀</h2> 
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">📱Contact:</h2>
+<h2 align="center">📱 Contact: 📱</h2>
 
 ###
 
